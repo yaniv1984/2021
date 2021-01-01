@@ -14,7 +14,5 @@ class BaseTest:
         self.json_reader = JsonParser("tests_data.json")
         self.config_reader = prep_properties
         self.excel_reader = ExcelParser("data.xlsx")
-        print("FF")
-        print("FF")
-        print("kkk")
+
 
